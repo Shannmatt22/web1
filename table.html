@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Learning HTML Tables</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+         th, td {
+            border-style:solid;
+            border-color: #000000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Student Record</h1>
+
+    <table style="width:40%">
+        <tr>
+            <th>Num.</th>
+            <th>NIM</th>
+            <th>Name</th>
+            <th>Status</th>
+            <th>Attendance</th>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>123</td>
+            <td>Vino</td>
+            <td>Inside</td>
+            <td rowspan="2"> Present</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>321</td>
+            <td>Cico</td>
+            <td>Outside</td>
+            
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>989</td>
+            <td>Shann</td>
+            <td rowspan="2"> Inside </td>
+            <td>Present</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td>232</td>
+            <td>Sartika</td>
+            <td>Present</td>
+        </tr>
+        </table>
+        <table style="width:5%">
+            <tr>
+                <th colspan="2">A</th>
+                <th colspan="2">B</th>
+            </tr>
+            <tr>
+                <td colspan="3">C</td>
+                <td rowspan="3">D</td>
+            </tr>
+            <tr>
+                <td rowspan="2">E</td>
+                <td>F</td>
+                <td>G</td>
+            </tr>
+            <td colspan="2">H</td>
+        </table>
+</body>
+</html>
