@@ -1,3 +1,6 @@
 h1{
-    border: 2px solid black;
+    border: 2px solid black ;
+}
+h2{
+    text-align: left;background-color: blueviolet ;color:gold
 }
