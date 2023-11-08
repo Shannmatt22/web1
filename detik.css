@@ -1,0 +1,319 @@
+.logodetik {
+    width: 13%;
+    padding: 0px ;
+}
+
+h1 {
+    padding: 0 200px;
+}
+
+#adi-rahman {
+    padding: 0 500px;
+}
+
+#gambar-xiaomi{
+    padding: 0px 200px 0px 200px;
+    width: 100%;
+    
+}
+
+#foto-deskripsi {
+    padding: 0 200px;
+}
+
+.firstnav {
+    background: linear-gradient(100deg,#562b77 30%,#aa248c 100%);
+    color: white;
+    padding: 1px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.firstnav ul li:hover {
+    color: rgb(250, 186, 23);
+    font-weight: bolder;
+}
+
+.secondnav {
+    background-color: rgba(189, 196, 182, 0.62);
+    padding: 1px;
+    color: black
+}
+.secondnav ul li:hover {
+    color: #562b77;
+    font-weight: bolder;
+}
+.oppo-tech {
+    background-color: green;
+    border-radius: 4px;
+    padding: 2px 6px;
+    line-height: 20px;
+    font-size: large;
+    color: white;
+}
+
+.secondnav ol {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#main-container {
+    margin-top: 10px;
+    text-align: justify;
+    justify-content: space-around;    
+}
+
+.mia{
+    font-weight: bolder;
+    text-transform: lowercase;
+    margin: 25px 0px 1px 2px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dedede;
+    color: black;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.mia + .mia {
+    margin-left: 2px;
+}
+
+#detik-news {
+    box-sizing: border-box;
+    font-size: small;
+}
+
+#komentar {
+    border-radius: 10px;
+}
+
+#footer-container {
+    padding: 1px;
+    background: rgb(218, 215, 215);
+    border-color: #562b77;
+    
+}
+
+#footer-container li {
+    list-style-type: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+div h2 {
+    color: #51134f;
+    padding:0 200px; 
+    
+}
+
+div table {
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 200px;
+}
+
+div td {
+    text-transform: initial;
+}
+
+#table2 {
+    padding: 3px 200px;
+}
+
+main {
+    margin-bottom: 100px;
+}
+
+div td:hover {
+    color: #51134f;
+}
+
+.alucard {
+    background-color: rgba(189, 196, 182, 0.62);
+    margin: 0x;
+    padding: 0;
+    text-align: left;
+    border-top: #562b77; 
+}
+
+#informasi {
+    list-style-type: none;
+    padding:0px 900px;
+}
+
+.detik-com {
+    padding: 0 20px;
+    
+}
+
+#copyright {
+    text-align: center;
+    padding: 20px;
+    background-color: #51134f;
+}.logodetik {
+    width: 13%;
+    padding: 0px ;
+}
+
+h1 {
+    padding: 0 200px;
+}
+
+#adi-rahman {
+    padding: 0 500px;
+}
+
+#gambar-xiaomi{
+    padding: 0px 200px 0px 200px;
+    width: 100%;
+    
+}
+
+#foto-deskripsi {
+    padding: 0 200px;
+}
+
+.firstnav {
+    background: linear-gradient(100deg,#562b77 30%,#aa248c 100%);
+    color: white;
+    padding: 1px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.firstnav ul li:hover {
+    color: rgb(250, 186, 23);
+    font-weight: bolder;
+}
+
+.secondnav {
+    background-color: rgba(189, 196, 182, 0.62);
+    padding: 1px;
+    color: black
+}
+.secondnav ul li:hover {
+    color: #562b77;
+    font-weight: bolder;
+}
+.oppo-tech {
+    background-color: green;
+    border-radius: 4px;
+    padding: 2px 6px;
+    line-height: 20px;
+    font-size: large;
+    color: white;
+}
+
+.secondnav ol {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#main-container {
+    margin-top: 10px;
+    text-align: justify;
+    justify-content: space-around;    
+}
+
+.mia{
+    font-weight: bolder;
+    text-transform: lowercase;
+    margin: 25px 0px 1px 2px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dedede;
+    color: black;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.mia + .mia {
+    margin-left: 2px;
+}
+
+#detik-news {
+    box-sizing: border-box;
+    font-size: small;
+}
+
+#komentar {
+    border-radius: 10px;
+}
+
+#footer-container {
+    padding: 1px;
+    background: rgb(218, 215, 215);
+    border-color: #562b77;
+    
+}
+
+#footer-container li {
+    list-style-type: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+div h2 {
+    color: #51134f;
+    padding:0 200px; 
+    
+}
+
+div table {
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 200px;
+}
+
+div td {
+    text-transform: initial;
+}
+
+#table2 {
+    padding: 3px 200px;
+}
+
+main {
+    margin-bottom: 100px;
+}
+
+div td:hover {
+    color: #51134f;
+}
+
+.alucard {
+    background-color: rgba(189, 196, 182, 0.62);
+    margin: 0x;
+    padding: 0;
+    text-align: left;
+    border-top: #562b77; 
+}
+
+#informasi {
+    list-style-type: none;
+    padding:0px 900px;
+}
+
+.detik-com {
+    padding: 0 20px;
+    
+}
+
+#copyright {
+    text-align: center;
+    padding: 20px;
+    background-color: #51134f;
+}

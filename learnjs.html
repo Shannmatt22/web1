@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>learn Java Script Part 1</title>
+</head>
+<body>
+    <h1>Learn Java Script Part 1</h1>
+
+    <p id="demo"></p>
+
+    <button onclick="myFunction()">Click Me!</button>
+
+    <br><br>
+
+    <script>
+        document.getElementById("demo").innerHTML = "My name is Shann Nainggolan";
+
+        document.write("My NIM is 2282024");
+
+        // window.alert("Hi, this is an alert!");
+
+        // alert("Hi, nice to meet you again!");
+
+        console.log("You can read this text only on console");
+
+        let x, y, z;
+
+        x = 1;
+        y = 2;
+        z = x + y;
+
+        document.write("<br><br>");
+
+        document.write(z);
+
+        document.write("<br>The result of x + y = " + z);
+
+        function myFunction() {
+            document.getElementById("demo").innerHTML = "This text us from function"
+        }
+</script>
+</body>
+</html>
